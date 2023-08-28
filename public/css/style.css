@@ -1,0 +1,17 @@
+.background{
+    background-color: rgb(174, 133, 56);
+    color: white;
+}
+.card-title{
+    height: 120px;
+}
+.date{
+    font-size:15 ;
+}
+.card-text{
+    height: 250px;
+}
+.btn:hover{
+    background-color: rgb(84, 62, 19);
+    color: white;
+}
